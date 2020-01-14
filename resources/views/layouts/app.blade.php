@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="{{asset('/css/style.bundle.css')}}">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
 
-    <title>Главная</title>
+    <title>Main</title>
     <style>
         .preloader{width: 100%;height: 100%;position: fixed;background-color: #fff;z-index: 9999;}
         .select2 {
